@@ -41,7 +41,9 @@ Please click on "Download zip file" to the right. Extract the contents and renam
 
 ### Disclaimer
  Copyright (c) 2008 David A. Mellis.  All rights reserved.
+ 
  Modified and added to by John "smeezekitty".
+ 
  Modified and added to by Prajwal "Marzogh".
  
  This library is free software; you can redistribute it and/or
