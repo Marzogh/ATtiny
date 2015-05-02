@@ -1,7 +1,6 @@
 # ATtiny
-## ATtiny 13/44/84/45/85 cores for Arduino 1.6.x
-
-#### Version 1.0
+### ATtiny 13/44/84/45/85 cores for Arduino 1.6.x
+###### Version 1.0
   
 Currently contains cores for the following:
 
