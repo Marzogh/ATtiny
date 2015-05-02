@@ -4,21 +4,21 @@
   
 Currently contains cores for the following:
 
-1. ATtiny 44/84 - with the following clocks
+- ATtiny 44/84 - with the following clocks
   - 1MHz (internal)
   - 8MHz (internal)
   - 8MHz (external)
   - 16MHz (external)
   - 20MHz (external)
   
-2. ATtiny 45/85 - with the following clocks
+- ATtiny 45/85 - with the following clocks
   - 1MHz (internal)
   - 8MHz (internal)
   - 8MHz (external)
   - 16MHz (external)
   - 20MHz (external)
 
-3. ATtiny13 - with the following clocks
+- ATtiny13 - with the following clocks
   - 128KHz (internal)
   - 600KHz (internal)
   - 1.2MHz (internal)
