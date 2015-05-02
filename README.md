@@ -37,7 +37,7 @@ Please click on "Download zip file" to the right. Extract the contents and renam
 - The ATtiny13 core in this version of ATtiny cores for Arduino is built on the work done by <a href = "http://forum.arduino.cc/index.php?action=profile;u=23936"> John "smeezekitty" </a> and based on his <a href = "http://sourceforge.net/projects/ard-core13/"> Core13 </a> release which can be downloaded separately if you wish. Support for this core can be found <a href ="http://arduino.cc/forum/index.php/topic,89781.0.html"> here </a> on the Arduino Forums.
 - The ATtiny44/84/45/85 cores in this version of ATtiny cores for Arduino are built on the work done by <a href = "http://highlowtech.org/?p=66"> David Mellis "damellis" </a> from the <a href = "http://highlowtech.org/"> High-Low Tech Group MIT Media Lab </a> and based on his <a href = "https://github.com/damellis/attiny/"> attiny </a> release which can be downloaded separately if you wish.
 - The boards.txt which brings it all together, along with some minor tweaks to the cores themselves are by yours truly.
-- If ou find any bugs in this release, please raise an issue here on Github before contacting any of the original authors of the cores directly. It is very likely that my fiddling around with their code is what caused your issue.
+- If you find any bugs in this release, please raise an issue here on Github before contacting any of the original authors of the cores directly. It is very likely that my fiddling around with their code is what caused your issue.
 - That said, the cores have all been tested to work perfectly for me as of 3 May 2015 on Arduino 1.6.3 on a Mac running OSX 10.10.3
 
 ### Disclaimer
